@@ -1,8 +1,8 @@
 ## Olá, eu sou o Vitor 👋
 <div>
   <a href="https://github.com/vitordl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordl&show_icons=true&theme=darko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordl&layout=compact&langs_count=7&theme=darko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 ### Atualmente elaboro meus projetos com essas tecnologias
